@@ -1,0 +1,44 @@
+[
+    {
+        "Servicio": "Clases de Yoga",
+        "Instructor/a": "Jaime",
+        "Duración (min)": 60,
+        "Capacidad máx(personas)": 30,
+        "Usuarios Inscritos": 20
+    },
+    {
+        "Servicio": "Clases de Pilates",
+        "Instructor/a": "Valentina",
+        "Duración (min)": 40,
+        "Capacidad máx(personas)": 25,
+        "Usuarios Inscritos": 17
+    },
+    {
+        "Servicio": "Entrenamiento personalizado",
+        "Instructor/a": "Carlos",
+        "Duración (min)": 60,
+        "Capacidad máx(personas)": 5,
+        "Usuarios Inscritos": 4
+    },
+    {
+        "Servicio": "Acceso a la Piscina",
+        "Instructor/a": "Noé",
+        "Duración (min)": 90,
+        "Capacidad máx(personas)": 20,
+        "Usuarios Inscritos": 15
+    },
+    {
+        "Servicio": "Uso General del GYM",
+        "Instructor/a": "Gerson",
+        "Duración (min)": "Ilimitado",
+        "Capacidad máx(personas)": 110,
+        "Usuarios Inscritos": 55
+    },
+    {
+        "Servicio": "Zumba",
+        "Instructor/a": "Ana",
+        "Duración (min)": 50,
+        "Capacidad máx(personas)": 45,
+        "Usuarios Inscritos": 2
+    }
+]
