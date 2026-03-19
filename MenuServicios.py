@@ -142,3 +142,5 @@ def EliminarServicio():
             print("Operación cancelada.")
     except:
         print("Error en la selección.")
+
+MenuServicios()
